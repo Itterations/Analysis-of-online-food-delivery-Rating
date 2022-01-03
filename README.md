@@ -56,7 +56,7 @@ Data Transformation<br >
 	Items<br >
 	Membership<br >
 
-EDA - 6<br >
+EDA <br >
 ========================<br >
 Univariate analysis  of each attribute<br >
 	Packaging charges - same values - can be dropped<br >
